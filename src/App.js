@@ -46,7 +46,7 @@ function App() {
     ],
 
     certifications: [
-      'Level 4 Certificate of Competence (COC) in IT',
+      'Wholistic Certificate of Competence in IT',
       'CISCO Scaling Networks Certification',
       'Advanced Pedagogical Methods Certification'
     ],
