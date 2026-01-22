@@ -281,7 +281,7 @@ function App() {
               
               <div className="availability">
                 <h4>📅 Availability</h4>
-                <p>• Consulting & Training Sessions</p>
+                <p>• Flexible Consulting & Training Sessions</p>
                 <p>• 🇪🇹 Ethiopia 🇪🇹</p>
                 <p>• Online & On-site (Addis Ababa)</p>
               </div>
