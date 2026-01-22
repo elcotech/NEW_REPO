@@ -18,9 +18,9 @@ function App() {
     
     about: 'Professional Profile',
     aboutText: `🎓 MSc in Information Technology Technical Teacher Education | 17+ Years Experience
-
-🏢 Current: Part-time Lecturer at Worldlink Cross-Border International College
-🏛️ Government Service: ICT Instructor & ICT club Director at Nefassilk Poly-Technic College
+🌐 Online Engagement: Digital Systems & ICT Support Specialist, Software and Web Developer at LogicCraft International Company
+🏢 Private Sector: Part-time Instructor at Worldlink Cross-Border International College
+🏛️ Government Service: ICT Instructor & ICT Club Director at Nefassilk Poly-Technic College
 
 💡 Specializing in advanced IT education, Educational program development, and technical consultation with deep industry experience across multiple sectors.
 
