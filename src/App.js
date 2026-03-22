@@ -19,7 +19,7 @@ function App() {
     about: 'Professional Profile',
     aboutText: `🎓 MSc in Information Technology Technical Teacher Education 
 
-🌐 Online Engagement: Digital Systems & ICT Support Specialist, Software and Web Developer at LogicCraft International Company
+🌐 Online Engagement: Provide online guidance and learning support for students in ICT-related subjects.
 
 🏛️ Government Service: ICT Instructor & ICT Club Director at Nefassilk Poly-Technic College
 
